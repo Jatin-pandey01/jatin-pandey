@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **jatinpandey3250@gmail.com**
 
-- 📄 Know about my experiences [jatin-pandey01.github.io/Portfolio](jatin-pandey01.github.io/Portfolio)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
