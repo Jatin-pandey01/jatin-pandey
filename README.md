@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatin Pandey</h1>
+<p>
+ <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" height="400"/>
+<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
+</p>
 <h3 align="center">A passionate web developer, software developer and Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-pandey01&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-pandey01" /> </p>
